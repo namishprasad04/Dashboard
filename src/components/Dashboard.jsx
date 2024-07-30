@@ -1,4 +1,3 @@
-import React from "react";
 import Chart from "./Chart";
 
 function Dashboard() {
@@ -8,11 +7,11 @@ function Dashboard() {
 
       <div className="md:flex md:space-x-8 py-6">
         <div className="flex flex-col rounded-md border md:w-[400px] w-[250px] h-[150px] md:p-8 p-4 justify-center">
-          <h2>Yatharth Verma</h2>
+          <h2>Namish Prasad</h2>
           <p className="text-gray-500 mt-3">Your Expenses: Rs10000</p>
         </div>
         <div className="flex flex-col rounded-md border md:w-[400px] w-[250px] h-[150px] md:p-8 p-4 justify-center md:mt-0 mt-4">
-          <h2>Yatharth Verma</h2>
+          <h2>Namish Prasad</h2>
           <p className="text-gray-500 mt-3">Your Savings: Rs100000</p>
         </div>
       </div>
